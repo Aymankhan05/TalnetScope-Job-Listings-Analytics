@@ -1,11 +1,15 @@
 TalentScope — Job Listings Analytics Dashboard
+
 A Python-based data analytics dashboard built with Streamlit, Pandas, and Plotly to explore job-listing data through interactive visualizations, filters, key performance indicators (KPIs), and data-quality checks.
 
 
-Dataset notice: This project currently uses practice data for demonstration and learning. Job listings, descriptions, and application links have not been independently verified as real or current vacancies. Please verify opportunities through official employer websites before applying.
+Dataset notice:
+
+ This project currently uses practice data for demonstration and learning. Job listings, descriptions, and application links have not been independently verified as real or current vacancies. Please verify opportunities through official employer websites before applying.
 
 
 Features
+
 KPI Dashboard: Summarizes total listings, job titles, companies, and locations.
 Interactive Charts: Visualizes job titles, employers, and locations.
 Search and Filters: Explore listings using keywords and available filter options.
@@ -16,6 +20,7 @@ Data Pipeline: Uses Python scripts to clean and process the dataset.
 
 
 Technology Stack
+
 Python
 Pandas
 Streamlit
@@ -25,6 +30,7 @@ Git and GitHub
 
 
 Project Structure
+
 JobListingsAnalytics/
 ├── app.py
 ├── run_pipeline.py
@@ -45,6 +51,7 @@ JobListingsAnalytics/
 
 
 Installation and Setup
+
 1. Clone the repository
 git clone https://github.com/Aymankhan05/TalentScope-Job-Listings-Analytics.git
 cd TalentScope-Job-Listings-Analytics
@@ -60,6 +67,7 @@ Streamlit will display a local URL in the terminal. Open that URL in your browse
 
 
 How to Use
+
 Open the dashboard.
 Review the KPI cards and interactive charts.
 Search and filter the available job listings.
@@ -71,6 +79,7 @@ This project is intended for learning and portfolio demonstration. Data complete
 
 
 Future Improvements
+
 Integrate a verified job-listings API.
 Add salary and skills analysis when reliable data is available.
 Expand automated testing and documentation.
