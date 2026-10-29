@@ -86,16 +86,6 @@ Expand automated testing and documentation.
 Improve dashboard accessibility and deployment.
 Add further analytics as trustworthy data sources become available.
 
-## 📸 Dashboard Screenshots
-
-### Dashboard Overview
-![TalentScope Dashboard Overview](screenshots/dashboard_overview.png)
-
-### Interactive Filters and Charts
-![TalentScope Filters and Charts](screenshots/dashboard_filters.png)
-
-### Data Quality Audit
-![TalentScope Data Quality Audit](screenshots/data_quality_audit.png)
 
 Author
 Ayman Khan
