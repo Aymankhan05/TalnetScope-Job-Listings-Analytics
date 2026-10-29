@@ -1,0 +1,154 @@
+{
+    "overview": {
+        "total_listings": 100,
+        "unique_job_titles": 92,
+        "unique_companies": 99,
+        "unique_locations": 100,
+        "duplicate_rows": 0,
+        "missing_cells": 0,
+        "valid_http_links": 100,
+        "average_description_length": 26.44,
+        "average_title_words": 2.25
+    },
+    "charts": {
+        "top_job_titles": [
+            {
+                "name": "Python Programmer (Entry-Level)",
+                "count": 3
+            },
+            {
+                "name": "Legal executive",
+                "count": 2
+            },
+            {
+                "name": "Materials engineer",
+                "count": 2
+            },
+            {
+                "name": "Software Developer (Python)",
+                "count": 2
+            },
+            {
+                "name": "Futures trader",
+                "count": 2
+            },
+            {
+                "name": "Manufacturing systems engineer",
+                "count": 2
+            },
+            {
+                "name": "Back-End Web Developer (Python, Django)",
+                "count": 2
+            },
+            {
+                "name": "Senior Python Developer",
+                "count": 1
+            },
+            {
+                "name": "Energy engineer",
+                "count": 1
+            },
+            {
+                "name": "Fitness centre manager",
+                "count": 1
+            }
+        ],
+        "top_companies": [
+            {
+                "name": "Garcia PLC",
+                "count": 2
+            },
+            {
+                "name": "Payne, Roberts and Davis",
+                "count": 1
+            },
+            {
+                "name": "Vasquez-Davidson",
+                "count": 1
+            },
+            {
+                "name": "Jackson, Chambers and Levy",
+                "count": 1
+            },
+            {
+                "name": "Savage-Bradley",
+                "count": 1
+            },
+            {
+                "name": "Ramirez Inc",
+                "count": 1
+            },
+            {
+                "name": "Rogers-Yates",
+                "count": 1
+            },
+            {
+                "name": "Kramer-Klein",
+                "count": 1
+            },
+            {
+                "name": "Meyers-Johnson",
+                "count": 1
+            },
+            {
+                "name": "Hughes-Williams",
+                "count": 1
+            }
+        ],
+        "top_locations": [
+            {
+                "name": "Stewartbury, AA",
+                "count": 1
+            },
+            {
+                "name": "Christopherville, AA",
+                "count": 1
+            },
+            {
+                "name": "Port Ericaburgh, AA",
+                "count": 1
+            },
+            {
+                "name": "East Seanview, AP",
+                "count": 1
+            },
+            {
+                "name": "North Jamieview, AP",
+                "count": 1
+            },
+            {
+                "name": "Davidville, AP",
+                "count": 1
+            },
+            {
+                "name": "South Christopher, AE",
+                "count": 1
+            },
+            {
+                "name": "Port Jonathan, AE",
+                "count": 1
+            },
+            {
+                "name": "Osbornetown, AE",
+                "count": 1
+            },
+            {
+                "name": "Scotttown, AP",
+                "count": 1
+            }
+        ]
+    },
+    "data_quality": {
+        "rows": 100,
+        "columns": 7,
+        "missing_by_column": {
+            "job_title": 0,
+            "company_name": 0,
+            "location": 0,
+            "job_description": 0,
+            "apply_link": 0,
+            "description_length": 0,
+            "title_word_count": 0
+        }
+    }
+}

@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+app_backup.txt
+app_backup*
+*.zip
+data/raw/*backup*.csv
